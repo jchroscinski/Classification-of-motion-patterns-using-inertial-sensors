@@ -1,0 +1,1 @@
+The program reads the contents of the "HAR_extend" folder. Then on the basis of the files contained there it creates another corresponding files with the "b" prefix, which are already the result of the former trapezoidal sampling to the constant dimension.

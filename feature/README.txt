@@ -1,0 +1,1 @@
+The program allows to calculate selected features of signals on the basis of the data in the "HAR_1" folder.

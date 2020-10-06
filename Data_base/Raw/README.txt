@@ -1,0 +1,1 @@
+The raw database has six recorded signals (three for linear accelerations and angular velocities) during exercises with a frequency of 50 [Hz].
