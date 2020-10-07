@@ -35,7 +35,7 @@ Selected methods of feature extraction:
 
 ## architectures_of_neural_networks
 
-Finally, the structure of neural networks based on the * Keras * library was designed.
-Mainly * Dense * layers and the * relu * activation function were used.
+Finally, the structure of neural networks based on the *Keras* library was designed.
+Mainly *Dense* layers and the *relu* activation function were used.
 Several configurations of the number of network layers and a different proportion of training and testing sets were tested.
 The recognition accuracy obtained is in the range of 95 - 100%.
